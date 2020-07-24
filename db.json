@@ -1,8 +1,7 @@
 {
-	"profile": {
-		"name": "Judy",
-		"authToken": "uNAfRiX6Om7KiMB",
-		"userId": 1,
-		"imgUrl": "https://picsum.photos/300"
-	}
+	"data": [
+		{"name": "Narasimham", "rating":"4.5/5.0" },
+		{"name": "20-20", "rating":"3.5/5.0" },
+		{"name": "CID Moosa", "rating":"2.5/5.0" }
+	]
 }
